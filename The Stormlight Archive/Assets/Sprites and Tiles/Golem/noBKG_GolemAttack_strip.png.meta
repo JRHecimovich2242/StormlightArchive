@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: dc25780bef0a94e4d9b91049e98b4950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3001064305222826701
+    second: noBKG_GolemAttack_strip_0
+  - first:
+      213: 4279646544716775008
+    second: noBKG_GolemAttack_strip_1
+  - first:
+      213: 2816281313220920020
+    second: noBKG_GolemAttack_strip_2
+  - first:
+      213: -4362255911769404909
+    second: noBKG_GolemAttack_strip_3
+  - first:
+      213: -7437108976248768919
+    second: noBKG_GolemAttack_strip_4
+  - first:
+      213: 4883148573934976432
+    second: noBKG_GolemAttack_strip_5
+  - first:
+      213: 9028468732119020042
+    second: noBKG_GolemAttack_strip_6
+  - first:
+      213: 3942905877449855683
+    second: noBKG_GolemAttack_strip_7
+  - first:
+      213: 7919708488046495669
+    second: noBKG_GolemAttack_strip_8
+  - first:
+      213: 6141443864034364148
+    second: noBKG_GolemAttack_strip_9
+  - first:
+      213: -7878417427235233882
+    second: noBKG_GolemAttack_strip_10
+  - first:
+      213: 9144332995697923636
+    second: noBKG_GolemAttack_strip_11
+  - first:
+      213: 597113520511363075
+    second: noBKG_GolemAttack_strip_12
+  - first:
+      213: 638962855716594058
+    second: noBKG_GolemAttack_strip_13
+  - first:
+      213: -6527786535888038998
+    second: noBKG_GolemAttack_strip_14
+  - first:
+      213: 4159767330647785271
+    second: noBKG_GolemAttack_strip_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c27322eb812174fb72a572aa779196
+      internalID: 3001064305222826701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 20
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f675f8a872c2429c53711260e2e29
+      internalID: 4279646544716775008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 20
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081f3b36c1be0e489ed2cdfef7da352
+      internalID: 2816281313220920020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4356214f0bebd34b9f892b21ed3c337
+      internalID: -4362255911769404909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 20
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca159879501804cb8f3322b742d181
+      internalID: -7437108976248768919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df26bde2d78974891435d3e78bb4bb
+      internalID: 4883148573934976432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 20
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619ae6d57830c441bd1dcf4e1f0dea5
+      internalID: 9028468732119020042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665d497275e9e44db01b80c134f878a
+      internalID: 3942905877449855683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 20
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06323eb35f66b7c4f92b6a1e1b3d5556
+      internalID: 7919708488046495669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 20
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f0e6e4d0e38548afcc5f920b42406
+      internalID: 6141443864034364148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 20
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555e896ca45d1945874a6915bbb9ae8
+      internalID: -7878417427235233882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 20
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b105a398f66f40d4aa4723fd1c606884
+      internalID: 9144332995697923636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 20
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b61a13bf97c2246b08449792e196c2
+      internalID: 597113520511363075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 20
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1240e3a3072f3945be4c750e7011979
+      internalID: 638962855716594058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_14
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 20
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045360271a898b94ba824e0cbeebd504
+      internalID: -6527786535888038998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_GolemAttack_strip_15
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 20
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d7f472a4f5204db2f2df43c6bf1e8
+      internalID: 4159767330647785271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

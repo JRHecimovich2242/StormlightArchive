@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy Attack Trigger
+  - Player Foot
+  - Stun Trigger
+  - Player Attack Trigger
+  - Environment
+  - Interactable Trigger
+  - Interactable
+  - Breakable
+  - Pickup
+  - Source
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Interactable Triggers
+  - Pickup
+  - Source
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3475952687
+    locked: 0
+  - name: Foreground
+    uniqueID: 288274977
+    locked: 0
+  - name: Enemies
+    uniqueID: 956914507
+    locked: 0
+  - name: Interactables
+    uniqueID: 2914582223
+    locked: 0
+  - name: Pickups
+    uniqueID: 3779190971
+    locked: 0
+  - name: Player
+    uniqueID: 1442728007
+    locked: 0
