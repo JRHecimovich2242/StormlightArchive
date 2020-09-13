@@ -235,6 +235,8 @@ public class Golem : MonoBehaviour, IEnemy
 
     private void ApplyMovement()
     {
+
+        Debug.Log(_move);
         myRigidbody2D.velocity = _move;
         if (!_attackPlayer & !_recovering & !_stunned)
         {
